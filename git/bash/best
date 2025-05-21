@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 echo "This School is so cool!"
 #best
+=======
+#best
+echo "best"
+>>>>>>> update_script
